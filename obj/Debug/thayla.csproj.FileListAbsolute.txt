@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\jogo\bin\Debug\thayla.exe.config
+C:\Users\Tecnico\Desktop\jogo\bin\Debug\thayla.exe
+C:\Users\Tecnico\Desktop\jogo\bin\Debug\thayla.pdb
+C:\Users\Tecnico\Desktop\jogo\obj\Debug\thayla.csprojAssemblyReference.cache
+C:\Users\Tecnico\Desktop\jogo\obj\Debug\thayla.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\jogo\obj\Debug\thayla.exe
+C:\Users\Tecnico\Desktop\jogo\obj\Debug\thayla.pdb
